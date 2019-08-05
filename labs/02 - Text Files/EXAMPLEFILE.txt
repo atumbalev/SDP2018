@@ -1,0 +1,4 @@
+hello 322 ab1234
+one word
+linewith.points.init
+newlineA
